@@ -16,8 +16,17 @@ Syntax highlighting is a feature that displays source code, in different colors 
 To modify styling and highlight colors edit `/assets/css/syntax.css`.
 
 {% highlight swift %}
+import UIKit
+/// 테스트
+// 주석테스트
+let b: Set<Int>? 
 let a: String = "a"
 print(a)
+public func test() {
+    return    
+}
+
+let c: [Int] = [1,2,3]
 {% endhighlight %}
 
 {% highlight css %}
