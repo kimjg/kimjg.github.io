@@ -1,7 +1,7 @@
 ---
 comments: true
 excerpt: 'Just about everything you''ll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks'
-layout: swift
+layout: post
 project: true
 tag:
   - swift
