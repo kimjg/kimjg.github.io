@@ -28,7 +28,12 @@ public func test() {
 
 let c: [Int] = [1,2,3]
 {% endhighlight %}
+{% hightlight swift %}
 
+let a: String = "testtets"
+
+
+{% endhightlight %}
 {% highlight css %}
 #container {
     float: left;
