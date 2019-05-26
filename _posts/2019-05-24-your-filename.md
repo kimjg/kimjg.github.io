@@ -2,7 +2,6 @@
 layout: swift
 title:  "테스트 글 입니다."
 date:   2019-05-23
-project: true
 tag:
 - swift
 comments: true
