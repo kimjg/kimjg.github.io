@@ -1,15 +1,31 @@
 ---
+comments: true
+excerpt: 'Just about everything you''ll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks'
 layout: swift
-title:  "테스트 글 입니다."
-date:   2019-05-23
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks"
 project: true
 tag:
-- swift
-comments: true
+  - swift
+title: '테스트 글 입니다.'
 ---
+# 안녕
+응
+# 테스트
+테스ㅡㅌ
+테스트
+테-스트
+테스트,
+테스트
 
-## A New Post
+```swift
+let a = "sadfasdf"
+```
+```swift
+let a = "asdfasdfasdf"
+```
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.![스크린샷 2019-05-23 오후 11.39.39.png]({{site.baseurl}}/_posts/스크린샷 2019-05-23 오후 11.39.39.png)
+sads
+저장되네
 
+응믕믕ㅁ
+ㅡㅇ믕ㅁ
+으
