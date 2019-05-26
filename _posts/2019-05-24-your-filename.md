@@ -2,6 +2,7 @@
 layout: swift
 title:  "테스트 글 입니다."
 date:   2019-05-23
+excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks"
 tag:
 - swift
 comments: true
