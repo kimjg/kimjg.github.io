@@ -1,15 +1,14 @@
 ---
-layout: post
-title:  "Markdown Syntax 시유 "
-date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
 comments: true
+excerpt: 'Just about everything you''ll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more.'
+layout: post
+tag:
+  - markdown
+  - syntax
+  - sample
+  - test
+  - jekyll
+title: 'Markdown Syntax 시유 '
 ---
 
 ## HTML Elements
@@ -74,13 +73,13 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
 
 ## Code Snippets
 
-{% highlight css %}
+```css
 #container {
   float: left;
   margin: 0 -240px 0 0;
   width: 100%;
 }
-{% endhighlight %}
+```
 
 ## Buttons
 
@@ -95,7 +94,7 @@ Make any link standout more when applying the `.btn` class.
 <div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
-
+<javascript> alert("hi") </javascript>>
 ## KBD
 
 You can also use `<kbd>` tag for keyboard buttons.
