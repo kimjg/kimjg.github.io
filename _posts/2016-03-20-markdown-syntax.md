@@ -89,12 +89,11 @@ Make any link standout more when applying the `.btn` class.
 <a href="#" class="btn btn-success">Success Button</a>
 {% endhighlight %}
 
-<div markdown="0"><a href="#" class="btn">Primary Button3</a></div>
+<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
-<script> alert("hi") </script>
 ## KBD
 
 You can also use `<kbd>` tag for keyboard buttons.
