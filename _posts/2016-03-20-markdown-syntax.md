@@ -1,14 +1,9 @@
 ---
-comments: true
-excerpt: 'Just about everything you''ll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more.'
+title: 'Markdown Syntax 예제 '
 layout: post
-tag:
-  - markdown
-  - syntax
-  - sample
-  - test
-  - jekyll
-title: 'Markdown Syntax 시유 '
+tags: []
+published: false
+category: 
 ---
 
 ## HTML Elements
