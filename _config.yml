@@ -1,7 +1,7 @@
 # Site
 title:              김지광
-bio:                'iOS 개발을 하면서 공부한 것을 제 생각대로 정리하고 공유하는 페이지입니다.'
-description:        "iOS 개발을 하면서 공부한 것을 제 생각대로 정리하고 공유하는 페이지입니다."
+bio:                '소프트웨어 개발을 하면서 공부한 것을 정리하고 공유하는 페이지입니다.'
+description:        "소프트웨어 개발을 하면서 공부한 것을 정리하고 공유하는 페이지입니다."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/profile.jpg'
